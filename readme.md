@@ -65,8 +65,3 @@ Command for Linux or Mac:
 $ python3 manage.py runserver
 ```
 
-
-## Connect with me
-
-- Github [https://github.com/abhi7745]
-- Linkedin [www.linkedin.com/in/abhijithkr-in]
